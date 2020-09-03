@@ -37,6 +37,9 @@ body {
   align-items: center;
   margin-bottom: 105px;
 }
+.logo {
+  height: 30px;
+}
 .social-link {
   margin-left: 20px;
 }
